@@ -1,0 +1,3 @@
+/home/ipung/Downloads/sekolah_asli/build/CMakeFiles/edit_cache.dir
+/home/ipung/Downloads/sekolah_asli/build/CMakeFiles/rebuild_cache.dir
+/home/ipung/Downloads/sekolah_asli/build/CMakeFiles/cmt.dir
